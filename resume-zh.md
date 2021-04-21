@@ -5,14 +5,38 @@
 #### 职位：安卓软件开发工程师
 
 ----
+## 公司项目：[字节小程序Android SDK](https://play.google.com/store/apps/details?id=jd.cdyjy.overseas.market.indonesia)  <a href="https://play.google.com/store/apps/details?id=jd.cdyjy.overseas.market.indonesia"><img src="https://sf1-scmcdn-tos.pstatp.com/goofy/microapp_platform/statics/logo.png" width="100" align="right" style="margin-right:40px;"/></a>
+
+### 工作经历：
+
+- 2020.3 ---- 至今
+
+### 主要负责内容：
+
+- 字节小程序安卓SDK 同层方案
+    - 同层方案优化与新方案重构
+- 字节小程序安卓SDK 原生组件
+    - Input, Textarea, Video, LivePlayer, Map, Camera, Canvas组件的维护与重构、优化。
+- 字节小程序安卓SDK 的媒体、界面相关API能力
+
+
+### 核心工作经验与收获：
+
+- 复杂项目的维护、重构经验
+- 高效业务开发经验
+- 复杂技术方案的探索、优化、重构能力
+- 小程序相关的大量端能力与组件相关经验、跨端协作经验
+
+### 优点与缺点
+
+
+
 
 ## 公司项目：[京东印尼App（JD.id）](https://play.google.com/store/apps/details?id=jd.cdyjy.overseas.market.indonesia)  <a href="https://play.google.com/store/apps/details?id=jd.cdyjy.overseas.market.indonesia"><img src="https://github.com/zhangruize/resume/blob/master/1.png?raw=true" width="50" align="right" style="margin-right:40px;"/></a>
 
 ### 工作经历：
 
-- 实习阶段 2017.5 ---- 2017.11
-- 实习阶段 2018.3 ---- 2018.5
-- 正式入职 2018.7 ---- 至今
+- 2018.7 ---- 2020.3
 
 ### 主要负责内容：
 
