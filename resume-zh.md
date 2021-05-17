@@ -4,7 +4,7 @@
 #### 职位：安卓软件开发工程师
 
 ----
-## 公司项目：[字节小程序Android SDK]()  <a href=""><img src="https://sf1-scmcdn-tos.pstatp.com/goofy/microapp_platform/statics/logo.png" width="100" align="right" style="margin-right:40px;"/></a>
+## 公司项目：[字节小程序Android SDK](https://microapp.bytedance.com/)  <a href="https://microapp.bytedance.com/"><img src="https://sf1-scmcdn-tos.pstatp.com/goofy/microapp_platform/statics/logo.png" width="100" align="right" style="margin-right:40px;"/></a>
 
 ### 工作经历：
 
